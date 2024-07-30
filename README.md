@@ -16,9 +16,12 @@ You can view the interactive version of the dashboard [here](https://public.tabl
 
 This Tableau dashboard provides a comprehensive analysis of road accident data.  It visualizes key trends and patterns to offer insights into road safety.
 Insights:
-1.Identify trends over time and seasonal patterns.
-2.Understand the distribution of accident severities.
-3.Locate geographical hotspots for targeted interventions.
+
+Identify trends over time and seasonal patterns.
+
+Understand the distribution of accident severities.
+
+Locate geographical hotspots for targeted interventions.
 
 Interactive Filters: Filters for year, severity, type, and location to customize the view.
 It also helps to compare the data of the current year and previous year.
