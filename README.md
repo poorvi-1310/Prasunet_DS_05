@@ -23,5 +23,5 @@ Understand the distribution of accident severities.
 
 Locate geographical hotspots for targeted interventions.
 
-Interactive Filters: Filters for year, severity, type, and location to customize the view.
+Interactive Filters: Filters for year, severity, type to customize the view.
 It also helps to compare the data of the current year and previous year.
